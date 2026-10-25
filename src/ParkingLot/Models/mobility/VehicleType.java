@@ -1,4 +1,4 @@
-package ParkingLot.Models;
+package ParkingLot.Models.mobility;
 
 public enum VehicleType {
     BIKE,
